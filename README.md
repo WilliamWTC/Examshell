@@ -1,2 +1,2 @@
 # Examshell
-Solutions to the 42 examshell questions.
+- Some Solutions to the 42/WeThinkCode C-language examshell questions.
